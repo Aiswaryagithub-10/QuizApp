@@ -20,7 +20,7 @@ export const questions = [
     {
       text: `The "function" and " var" are known as:`,
       options: ["Keywords", "Data types", "Declaration statements", "Prototypes"],
-      answer: 2,
+      answer: 0,
     },
     {
       text: "In the JavaScript, which one of the following is not considered as an error:",
